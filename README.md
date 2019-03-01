@@ -1,3 +1,8 @@
-# Nitish Kumar's Resume
+# NitishKr
 
-## Totally accessible in node cli mode
+This is my resume. (Work in Progress)
+
+## Installation
+
+- Run `npm i --global nitishkr`.
+- Then in terminal run `nitishkr`.
