@@ -14,5 +14,12 @@
   },
   "bin": {
     "nitishkr": "./index.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintunitish/my-resume-cli.git"
+  },
+  "keywords": [
+    "resume", "cv", "document"
+  ]
 }
