@@ -1,0 +1,15 @@
+{
+    "Education": [
+        "Secondary",
+        "Senior Secondary",
+        "Bachelor of Technology"
+    ],
+    "Past Experience": [
+        "MCaffiene",
+        "Skilrock Technologies",
+        "Cybercure Technologies"
+    ],
+    "Tech Stack" : ["PHP", "Js", "Python", "CSS"],
+    "Projects" : ["None"],
+    "Contact" : ["nitishkr1729@gmail.com"]
+}
