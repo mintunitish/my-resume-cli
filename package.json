@@ -1,6 +1,6 @@
 {
   "name": "nitishkr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My Resume in a different way",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,8 @@
     "url": "git+https://github.com/mintunitish/my-resume-cli.git"
   },
   "keywords": [
-    "resume", "cv", "document"
+    "resume",
+    "cv",
+    "document"
   ]
 }
